@@ -18,8 +18,8 @@ You should taking those:
 
 ## Bounty List
 
-- [ ] PBP1: 支付宝抽奖小程序 (bounties/PBP1/PBP1.md)
-- [ ] PBP2: 在prascan浏览器基础上，支持社群体系的查询功能  (bounties/PBP2/PBP2.md)
+- [ ] PBP1: [支付宝抽奖小程序](bounties/PBP1/PBP1.md)
+- [ ] PBP2: 在prascan浏览器基础上，[支持社群体系的查询功能](bounties/PBP2/PBP2.md)
 - [ ] PBP3: 钱包支持（web钱包或者RPC）
 - [ ] PBP4: Twitter解析器：
   - [ ] 指定某个tag，如（#bind_eos_account）：https://twitter.com/search?q=%23bind_EOS_account 
