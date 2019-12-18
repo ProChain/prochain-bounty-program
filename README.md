@@ -48,8 +48,9 @@ You should taking those:
 ## 联系方式
 
 - ProChain官方网站 [https://chain.pro](https://chain.pro)
-- 支持[邮箱](mailto:i@chain.pro) i@chain.pr
-- [Github](https://github.com/ProChain/) https://github.com/ProChain/
+- 支持邮箱 [i@chain.pro](mailto:i@chain.pro)
+- Github [https://github.com/ProChain/](https://github.com/ProChain/)
+- ProChain Substrate Node [https://github.com/ProChain/prochain-node](https://github.com/ProChain/prochain-node)
 
 ## License
 
