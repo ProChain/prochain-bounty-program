@@ -1,9 +1,10 @@
 # Prochain Bounty Program
----
 
 Enable communities to contribute for ProChain substrate developments forward.
 
-Allows anyone to get bounties for ProChain substrate development issues, paid out in ERC-20 or PRA token. The team aims to respond to any submissions as fast as possible. Feel free to [email](mailto:i@chain.pro) us if you have any questions.
+Allows anyone to get bounties for ProChain substrate development issues, paid out in ERC-20 or PRA token. 
+
+The team aims to respond to any submissions as fast as possible.
 
 ## What you Should Know
 
@@ -17,7 +18,7 @@ You should taking those:
 
 ## Bounty List
 
-- [ ] 付宝抽奖小程序
+- [ ] 支付宝抽奖小程序
 - [ ] 在prascan浏览器基础上，支持社群体系的查询功能
 - [ ] 钱包支持（web钱包或者RPC）
 - [ ] Twitter解析器：
@@ -48,8 +49,9 @@ You should taking those:
 
 All code for this program is licensed [MIT]. 
 
-You may freely reuse any material here under the terms of either or both, at your
-discretion.
+You may freely reuse any material here under the terms of either or both, at your discretion.
+
+Feel free to [email](mailto:i@chain.pro) us if you have any questions.
 
 <!-- links -->
 [Rust]: https://www.rust-lang.org/
