@@ -4,7 +4,7 @@ Enable communities to contribute for ProChain substrate developments forward.
 
 Allows anyone to get bounties for ProChain substrate development issues, paid out in ERC-20 or PRA token. 
 
-The team aims to respond to any submissions as fast as possible.
+The team aims to respond to any submissions as fast as possible. Feel free to [email](mailto:i@chain.pro) us if you have any questions.
 
 ## What you Should Know
 
@@ -48,8 +48,8 @@ You should taking those:
 ## 联系方式
 
 - ProChain官方网站 [https://chain.pro](https://chain.pro)
-- 支持邮箱[email](mailto:i@chain.pro)
-- [Github](https://github.com/ProChain/)
+- 支持[邮箱](mailto:i@chain.pro) i@chain.pr
+- [Github](https://github.com/ProChain/) https://github.com/ProChain/
 
 ## License
 
@@ -57,7 +57,6 @@ All code for this program is licensed [MIT].
 
 You may freely reuse any material here under the terms of either or both, at your discretion.
 
-Feel free to [email](mailto:i@chain.pro) us if you have any questions.
 
 <!-- links -->
 [Rust]: https://www.rust-lang.org/
