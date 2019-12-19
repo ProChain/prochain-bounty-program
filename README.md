@@ -20,18 +20,18 @@ You should taking those:
 
 - [ ] PBP1: [支付宝抽奖小程序](bounties/PBP1/PBP1.md)
 - [ ] PBP2: 在prascan浏览器基础上，[支持社群体系的查询功能](bounties/PBP2/PBP2.md)
-- [ ] PBP3: 钱包支持（web钱包或者RPC）
-- [ ] PBP4: Twitter解析器：
+- [ ] PBP3: 钱包支持[web钱包或者RPC](bounties/PBP3/PBP3.md)
+- [ ] PBP4: [Twitter解析器](bounties/PBP4/PBP4.md)
   - [ ] 指定某个tag，如（#bind_eos_account）：https://twitter.com/search?q=%23bind_EOS_account 
   - [ ] 或者指定某个URL，如: https://twitter.com/justinsuntron/status/1205944176426151936
-- [ ] PBP5: 微博解析器
+- [ ] PBP5: [微博解析器](bounties/PBP5/PBP5.md)
   - [ ] 某条微博的转发URL：https://weibo.com/1642591402/IkWAEyqxy?type=repost
   - [ ] 某条微博的评论URL：https://weibo.com/1642591402/IkWAEyqxy?type=comment
-- [ ] PBP6: 快手解析器
+- [ ] PBP6: [快手解析器](bounties/PBP6/PBP6.md)
   - [ ] 某条快手视频的评论URL：https://live.kuaishou.com/u/3x3tcvtfmuv48ua/3xipa9m7i7989tg
-- [ ] PBP7: 拼多多商品评论解析器：
+- [ ] PBP7: [拼多多商品评论解析器](bounties/PBP7/PBP7.md)
   - [ ] 拼多多某件商品的评论URL：https://mobile.yangkeduo.com/goods_comments.html?goods_id=61194346592&refer_page_name=goods_detail&refer_page_id=10014_1576476386466_JdHvjfYGh9&refer_page_sn=10014&page_from=54&mall_id=115735
-- [ ] PBP8: 京东解析器
+- [ ] PBP8: [京东解析器](bounties/PBP8/PBP8.md)
    - [ ] 京东某件商品评论URL：https://item.jd.com/100002544828.html#comment
 
 ## Rules
