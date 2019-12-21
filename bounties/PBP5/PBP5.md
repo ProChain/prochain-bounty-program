@@ -15,11 +15,12 @@
 
 ## 3. Requirements 需求
 
-1.注意：该环境下只能使用RUST NO_STD库
+1.发起一个HTTP请求（评论或者转发 类似），获取到返回的HTML文本，并将文本转换为HEX
 
-2.发起一个HTTP请求（评论或者转发 类似），获取到返回的HTML文本，通过解析文本，获取到里面的转发（或评论）下的头像URL、昵称和评论。
+2.实现函数HTTP_HEX_ANALYZER（HTTP_HEX），该函数负责解析HTTP文档转换成HEX码的结果，通过解析，获取到里面的转发（或评论）下的头像URL、昵称和评论。
+（注意：该解析过程（即函数内部）不能使用非 NO_STD的库）
 
-3.输出结果：生成一个vector组，里面包含一些struct，每个struct包含头像URL、昵称、和评论三个key/value数据
+3.HTTP_HEX_ANALYZER输出结果：生成一个vector组，里面包含一些struct，每个struct包含头像URL、昵称、和评论三个key/value数据
 
 
 
