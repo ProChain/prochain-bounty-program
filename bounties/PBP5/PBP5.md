@@ -17,11 +17,12 @@
 
 1. **注意**：因为要集成到substrate wasm运行环境，**要求只能使用rust no_std库（如core::str），以及vec\<u8\>**
 
-2. **注意**：假设已经发起一个HTTP请求（评论或者转发 类似），获取到了返回的HTML文本，**HTTP请求相关代码不需要实现**
+2. **注意**：假设已经发起一个HTTP请求（评论或者转发 类似），获取到了返回的HTML文本，并将文本转换为HEX。**HTTP请求相关代码不需要实现**。实现函数HTTP_HEX_ANALYZER（HTTP_HEX），该函数负责解析HTTP文档转换成HEX码的结果，通过解析，获取到里面的转发（或评论）下的头像URL、昵称和评论。
+（注意：该解析过程（即函数内部）不能使用非 NO_STD的库）
 
 3. **注意**：rust no_std对json解析的库，可以借鉴使用 https://github.com/jingleizhang/simple-json，相关解析使用代码在https://github.com/ProChain/prochain-node/blob/master/bin/node/runtime/src/oracle.rs
 
-4. **核心需求**：通过读取步骤3已获得的文本，解析到里面的转发（或评论）下的头像URL、昵称和评论。
+4. **核心需求**：通过读取步骤3已获得的文本，解析到里面的转发（或评论）下的头像URL、昵称和评论。即 HTTP_HEX_ANALYZER输出结果：生成一个vector组，里面包含一些struct，每个struct包含头像URL、昵称、和评论三个或多个数据；
 
 ## 4. Specifications 细化
 
