@@ -18,7 +18,10 @@ You should taking those:
 
 ## Bounty List
 
-- [ ] PBP1: [支付宝抽奖小程序](bounties/PBP1/PBP1.md)
+- [x] PBP1: [支付宝抽奖小程序](bounties/PBP1/PBP1.md)
+  - Contributer:
+    - Author: yokosogithub https://github.com/yokosogithub
+    - Project: alipay-lottery https://github.com/ProChain/alipay-lottery
 - [ ] PBP2: 在prascan浏览器基础上，[支持社群体系的查询功能](bounties/PBP2/PBP2.md)
 - [ ] PBP3: 钱包支持[web钱包或者RPC](bounties/PBP3/PBP3.md)
 - [ ] PBP4: [Twitter解析器](bounties/PBP4/PBP4.md)
