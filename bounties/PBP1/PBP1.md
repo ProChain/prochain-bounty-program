@@ -22,4 +22,5 @@
 
 ## 5. Contributer
 
-- [yokosogithub](https://github.com/yokosogithub) [alipay-lottery](https://github.com/ProChain/alipay-lottery)
+- Author: yokosogithub https://github.com/yokosogithub
+- Project: alipay-lottery https://github.com/ProChain/alipay-lottery
