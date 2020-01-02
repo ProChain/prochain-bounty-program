@@ -48,7 +48,7 @@ You should taking those:
 - Rewards are paid out in ERC-20 or PRA token after the submission has been validated, usually a few days later; Please provide your ETH address or PRA mainnet address.
 - We will keep you updated as we work to integrated the codes you submitted.
 
-## 联系方式
+## Contracts 联系方式
 
 - ProChain官方网站 [https://chain.pro](https://chain.pro)
 - 支持邮箱 [i@chain.pro](mailto:i@chain.pro)
