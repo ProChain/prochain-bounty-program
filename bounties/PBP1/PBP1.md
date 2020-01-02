@@ -6,7 +6,7 @@
 
 ## 2.  Status 状态
 
-- [] This PBP is not implemented.
+- [x] This PBP is implemented.
 
 ## 3. Requirements 需求
 1. 使用支付宝小程序的用户信息接口 https://opendocs.alipay.com/mini/api/ch8chh 获取到用户头像
@@ -20,3 +20,6 @@
 3. 为了避免重复造轮子，抽奖页面可以使用开源的，并通过类似vue转支付宝小程序等工具完成转换。
 4. 未中奖概率改成0
 
+## 5. Contributer
+
+- [yokosogithub](https://github.com/yokosogithub) [alipay-lottery](https://github.com/ProChain/alipay-lottery)
